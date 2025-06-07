@@ -3,15 +3,15 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import ComponenteView from '@/components/ComponenteImagen.vue'
+import HelloWorld from "./components/HelloWorld.vue";
+import ComponenteView from "@/components/ComponenteImagen.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     ComponenteView,
-  }
-}
+  },
+};
 </script>
 
 <style>
